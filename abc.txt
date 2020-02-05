@@ -1,2 +1,2 @@
 Change 1
-Another line for commit
+Another
