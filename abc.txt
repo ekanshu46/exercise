@@ -1,3 +1,2 @@
 Change 1
-New line for commit
-abcd
+New line for
