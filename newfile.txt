@@ -1,2 +1,2 @@
 Hello world
-Line 1 added
+Change 1
